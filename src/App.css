@@ -1,0 +1,88 @@
+.gifs{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    }
+    
+    .search{
+      
+        width: 80%;
+        height: 30pt;
+        background-color:rgba(91, 207, 107, 0.452);
+        /* text-decoration:; */
+        text-align: center;
+        border-radius: 20px;
+    }
+
+    .li{
+      display: inline-block;
+      width: auto;
+      padding: 8px;
+      background-color: #dddddd;
+    }
+    .li_2{
+      background-color: rgb(224, 209, 209);
+    }
+    .li_a{
+      display: block;
+      color: #000;
+      padding: 8px 16px;
+      text-decoration: none;
+    }
+    .pagination{
+      /* margin: 20px; */
+      
+      display: inline-block;
+      margin-left: 430px;
+      margin-bottom: 20px;
+    }
+    .li:hover{
+      background-color:#000;
+      color: white;
+
+
+    }
+    /* .ul {
+      display: inline;
+      
+      background-color: rgb(105, 23, 23);
+    } */
+    
+      
+      
+      .img{  
+        height: 200px;
+        width: 200px;
+        padding: 10px;
+        object-fit: cover; 
+        }  
+
+      .a{
+        color: white;
+        padding: 8px 16px;
+      }
+      .nav{
+        display: inline;
+      }
+      .ul_nav{
+        margin-right: 70px;
+  
+      }
+      .v{
+        margin-top: 40px;
+        margin-right: 150px;
+      }
+      .app {
+        margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+        background-image: url("https://media.istockphoto.com/photos/concrete-wall-shiny-smooth-backgrounds-white-textured-picture-id681622484?b=1&k=20&m=681622484&s=170667a&w=0&h=10KlTFB1MZS3fY8wvUH-sz2bbPOTKyjI77WS7fgOr88=");
+       }
+       .img_size{
+        height: 200px;
+        width: 200px;
+        padding: 10px;
+        object-fit: cover
+       }
